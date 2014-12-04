@@ -15,7 +15,7 @@
  * $pduCommands = $pdu->generate(); // Method generate() return a array of PDU commands.
  *
  * Author: kikimor <i@kikimor.ru>
- * @link: https://github.com/kikimor/php-ext/pdu
+ * @link: https://github.com/kikimor/php-ext/tree/master/Pdu
  * Version: 1.0
  */
 class Pdu
